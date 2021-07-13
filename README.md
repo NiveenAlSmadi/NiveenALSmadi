@@ -1,1 +1,5 @@
-# niveen
+![niveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiveenAlSmadi&show_icons=true&theme=radical&)
+
+
+
+
